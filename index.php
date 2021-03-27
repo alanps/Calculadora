@@ -2,21 +2,21 @@
 <html>
 <head>
 
-	<title>Calculadora Básica - Agência Dream Up</title>
+	<title>Calculadora Básica - Dream Up</title>
 	<meta name="author" content="Alan Pardini Sant'Ana" />
 
 	<!-- Meta ===================================================== -->
 	<meta charset="utf-8" />
 	<meta http-equiv="cache-control" content="no-cache"/>
 	<meta http-equiv="expires" content="mon, 10 jul 2012 11:12:01 gmt">
-	<meta name="description" content="Dream Up - Calculadora Básica, com ela você pode fazer calculos básicos de uma calculadora simples.">
+	<meta name="description" content="Calculadora Básica, com ela você pode fazer calculos básicos de uma calculadora simples.">
 	<meta name="keywords" content="Calculadora Básica, Calculadora, Calculadora Simples, Calc, Alan Pardini Sant'Ana, Alan Pardini, Alan Sant'Ana, Alan PS, Alan P.S., Dream Up - Portfólio Online, Dream Up, Portfólio Online, Dream Up Portfólio, Dream Up - Portfólio, Dream Up Online, Agência Dream Up, Projetos Dream Up, Projetos Agência Dream Up, Projetos Alan Pardini Sant'Ana">
 	<link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico">
 	<link rel="image_src" type="image/jpeg" href="./images/favicon.ico" />
 	<!-- Meta Tags de Visualização ===================================================== -->
     <meta property="fb:app_id" content="285822082304827">
-    <meta property="og:title" content="Calculadora Básica - Agência Dream Up">
-    <meta property="og:description" content="Dream Up - Calculadora Básica, com ela você pode fazer calculos básicos de uma calculadora simples.">
+    <meta property="og:title" content="Calculadora Básica - Dream Up">
+    <meta property="og:description" content="Calculadora Básica, com ela você pode fazer calculos básicos de uma calculadora simples.">
     <meta property="og:url" content="https://www.agenciadreamup.com.br/calculadora/">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://www.agenciadreamup.com.br/calculadora/share.png">
