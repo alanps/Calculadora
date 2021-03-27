@@ -14,9 +14,15 @@
 	<link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico">
 	<link rel="image_src" type="image/jpeg" href="./images/favicon.ico" />
 	<!-- Meta Tags de Visualização ===================================================== -->
-	<meta property="og:image" content="../images/logo_small.png" />
-	<meta property="og:title" content="Calculadora Básica - Agência Dream Up" />
-	<meta property="og:description" content="Dream Up - Calculadora Básica, com ela você pode fazer calculos básicos de uma calculadora simples." />
+    <meta property="fb:app_id" content="285822082304827">
+    <meta property="og:title" content="Calculadora Básica - Agência Dream Up">
+    <meta property="og:description" content="Dream Up - Calculadora Básica, com ela você pode fazer calculos básicos de uma calculadora simples.">
+    <meta property="og:url" content="https://www.agenciadreamup.com.br/calculadora/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.agenciadreamup.com.br/calculadora/share.png">
+    <meta property="og:image:height" content="334">
+    <meta property="og:image:width" content="329">
+    <meta property="og:image:type" content="image/png">
 	<!-- visualização mobile ===================================================== -->
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="initial-scale = 1.0, user-scalable=no">
