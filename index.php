@@ -41,7 +41,7 @@
 <script src="calc.js"></script>
 
 <script>
-	window.homepath = "http://www.agenciadreamup.com.br/calculadora/"; //ftp
+	window.homepath = "https://www.agenciadreamup.com.br/calculadora/"; //ftp
 </script>
 
 <body class="page-calc">
@@ -88,7 +88,7 @@
 				<td class="calculadoraEqual calculadoraNumeros">=</td>
 			</tr>
 		</table>
-		<div class="copyright"><a href="http://www.agenciadreamup.com.br" target="_blank">www.agenciadreamup.com.br</a></div>
+		<div class="copyright"><a href="https://www.agenciadreamup.com.br" target="_blank">www.agenciadreamup.com.br</a></div>
 	</div>
 </body>
 
