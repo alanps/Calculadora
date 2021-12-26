@@ -37,13 +37,6 @@
 
 </head>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="calc.js"></script>
-
-<script>
-	window.homepath = "https://www.agenciadreamup.com.br/calculadora/"; //ftp
-</script>
-
 <body class="page-calc">
 	<div class="calculadora">
 		<div class="rotuloSecao">Calculadora</div>
@@ -91,5 +84,12 @@
 		<div class="copyright"><a href="https://www.agenciadreamup.com.br" target="_blank">www.agenciadreamup.com.br</a></div>
 	</div>
 </body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="calc.js"></script>
+
+<script>
+	window.homepath = "https://www.agenciadreamup.com.br/calculadora/"; //ftp
+</script>
 
 </html>
